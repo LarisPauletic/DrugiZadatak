@@ -1,0 +1,7 @@
+C:\Users\Učenik6\source\repos\DrugiZadatak\DrugiZadatak\bin\Debug\DrugiZadatak.exe.config
+C:\Users\Učenik6\source\repos\DrugiZadatak\DrugiZadatak\bin\Debug\DrugiZadatak.exe
+C:\Users\Učenik6\source\repos\DrugiZadatak\DrugiZadatak\bin\Debug\DrugiZadatak.pdb
+C:\Users\Učenik6\source\repos\DrugiZadatak\DrugiZadatak\obj\Debug\DrugiZadatak.csprojAssemblyReference.cache
+C:\Users\Učenik6\source\repos\DrugiZadatak\DrugiZadatak\obj\Debug\DrugiZadatak.csproj.CoreCompileInputs.cache
+C:\Users\Učenik6\source\repos\DrugiZadatak\DrugiZadatak\obj\Debug\DrugiZadatak.exe
+C:\Users\Učenik6\source\repos\DrugiZadatak\DrugiZadatak\obj\Debug\DrugiZadatak.pdb
